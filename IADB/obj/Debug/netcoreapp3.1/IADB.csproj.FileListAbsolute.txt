@@ -1,0 +1,8 @@
+C:\Bitbucket\InteligenciaArtificial\InteligenciaArtificial\IADB\obj\Debug\netcoreapp3.1\IADB.csprojAssemblyReference.cache
+C:\Bitbucket\InteligenciaArtificial\InteligenciaArtificial\IADB\obj\Debug\netcoreapp3.1\IADB.AssemblyInfoInputs.cache
+C:\Bitbucket\InteligenciaArtificial\InteligenciaArtificial\IADB\obj\Debug\netcoreapp3.1\IADB.AssemblyInfo.cs
+C:\Bitbucket\InteligenciaArtificial\InteligenciaArtificial\IADB\bin\Debug\netcoreapp3.1\IADB.deps.json
+C:\Bitbucket\InteligenciaArtificial\InteligenciaArtificial\IADB\bin\Debug\netcoreapp3.1\IADB.dll
+C:\Bitbucket\InteligenciaArtificial\InteligenciaArtificial\IADB\bin\Debug\netcoreapp3.1\IADB.pdb
+C:\Bitbucket\InteligenciaArtificial\InteligenciaArtificial\IADB\obj\Debug\netcoreapp3.1\IADB.dll
+C:\Bitbucket\InteligenciaArtificial\InteligenciaArtificial\IADB\obj\Debug\netcoreapp3.1\IADB.pdb
